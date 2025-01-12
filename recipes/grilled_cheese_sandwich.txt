@@ -1,0 +1,15 @@
+Title: Grilled Cheese Sandwich
+Description: A classic sandwich with gooey melted cheese.
+Tags: lunch
+Ingredients:
+- Bread
+- Cheddar_cheese
+- Butter
+Steps:
+1. 1. Heat a skillet on medium heat.
+2. 2. Butter one side of each slice of bread.
+3. 3. Place one slice, buttered side down, in the skillet.
+4. 4. Add cheese slices on top.
+5. 5. Place the second slice of bread, buttered side up, over the cheese.
+6. 6. Cook until golden brown on one side, then flip and cook the other side.
+7. 7. Enjoy!

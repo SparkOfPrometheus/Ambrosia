@@ -1,0 +1,14 @@
+{
+  "is_dark_mode": true,
+  "font_family": "Comic Sans MS",
+  "font_size": 9,
+  "font_bold": true,
+  "default_tags": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "dessert",
+    "appetizer",
+    "cocktail"
+  ]
+}

@@ -1,0 +1,13 @@
+Title: Peanut Butter and Jelly
+Description: A sandwich with peanut butter and jelly
+Tags: lunch
+Ingredients:
+- Peanut_Butter
+- Jelly
+- Sandwich_Bread
+Steps:
+1. 1. Place two pieces of bread on a cutting board
+2. 2. Spread peanut butter on one piece
+3. 3. Spread Jelly on the other piece
+4. 4. Press peanut butter and jelly together
+5. 5. Enjoy

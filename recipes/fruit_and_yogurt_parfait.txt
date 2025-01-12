@@ -1,0 +1,13 @@
+Title: Fruit and Yogurt Parfait
+Description: A layered treat with yogurt, fruit, and granola.
+Tags: breakfast, dessert
+Ingredients:
+- Fruit
+- Yogurt
+- Granola
+Steps:
+1. 1. In a glass or bowl, spoon a layer of yogurt.
+2. 2. Add a layer of fresh fruit.
+3. 3. Sprinkle a layer of granola on top.
+4. 4. Repeat layers until the container is full.
+5. 5. Enjoy!
